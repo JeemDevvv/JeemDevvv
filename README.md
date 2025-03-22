@@ -1,5 +1,5 @@
-<h1 style:"text-align:center";>Hi 👋, I'm Jeem</h1>
-<p style:"text-align:center";>Lorem Ipsum</p>
+<h1 align="center">Hi 👋, I'm Jeem</h1>
+<p align="center"></hello world></p>
 <h2>🚀 Tools:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
